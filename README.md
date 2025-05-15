@@ -4,7 +4,7 @@ A simple and responsive **JavaScript Age Calculator** web app that lets users ca
 
 ## 🚀 Live Demo
 
-https://github.com/Ghansham07/AgeCalculator/
+https://ghansham07.github.io/AgeCalculator/
 
 ---
 
